@@ -1,0 +1,2 @@
+dar make
+executar: ./agenda
